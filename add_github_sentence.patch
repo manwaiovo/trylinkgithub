@@ -1,0 +1,11 @@
+diff --git a/main.tex b/main.tex
+index 5d41402..a3b9d12 100644
+--- a/main.tex
++++ b/main.tex
+@@ -1,4 +1,6 @@
+ \documentclass{article}
+ \begin{document}
+ Hello World
++
++GitHub is a platform that helps developers collaborate and manage code with version control.
+ \end{document}
